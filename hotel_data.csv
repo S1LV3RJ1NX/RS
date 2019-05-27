@@ -1,0 +1,81 @@
+res_id,name,addr,locality,lat,long,cusines,aggr_rating,rate_text,votes
+18871246,ShakesBierre,"Level 5, Eva Mall, Brigade Road, Bangalore","Eva Mall, Brigade Road",12.9710367871,77.6070255786,"Asian, Continental, European, North Indian",4.6,Excellent,858
+18627369,Biergarten,"4th B Cross, Koramangala 5th Block, Bangalore",Koramangala 5th Block,12.9334267140,77.6143838838,"Continental, North Indian, Chinese, European, BBQ, Finger Food, Asian",4.7,Excellent,2068
+57833,Big Pitcher,"LR Arcade,4121, Old Airport Road, Bangalore",Old Airport Road,12.9601384392,77.6469237730,"American, Continental, North Indian, Mediterranean",4.7,Excellent,10091
+18874059,The Pump House,"607, 15th Cross, Outer Ring Road, 1st Phase, JP Nagar, Bangalore",JP Nagar,12.9065451310,77.5821393728,"Continental, Finger Food",4.4,Very Good,1227
+54162,The Black Pearl,"105, 1st A Cross Road, Jyothi Nivas College Road, Koramangala 5th Block, Bangalore",Koramangala 5th Block,12.9344024486,77.6161289960,"North Indian, European, Mediterranean",4.7,Excellent,11264
+18625420,Burma Burma,"607, Ground Floor, 12th Main, Hal 2nd Stage, Indiranagar, Bangalore",Indiranagar,12.9703944526,77.6447132975,"Asian, Burmese",4.7,Excellent,1926
+18945224,Secret Of Bangalore,"Shakthi Hill Resort, BEML Layout, Off Mysore Road, V Stage, RR Nagar, Rajarajeshwari Nagar, Bangalore",Rajarajeshwari Nagar,12.9093987813,77.5272493064,"North Indian, South Indian, Continental, Asian, Desserts",4.5,Excellent,1364
+18576435,Shift,"1085, 14th Main, 18th Cross, Sector 3, HSR, Bangalore",HSR,12.9118095871,77.6388925686,"Finger Food, Continental, North Indian",4.2,Very Good,2194
+18617852,Onesta,"90/3, Opposite Innovative Multiplex, Beside World of Titan, Outer Ring Road, Marathahalli, Bangalore",Marathahalli,12.9507766402,77.6998031884,"Pizza, Italian, Fast Food, Beverages, Desserts",4.5,Excellent,3424
+18580202,1131 Bar + Kitchen,"100 Feet Road, HAL 2nd Stage, Indiranagar, Bangalore",Indiranagar,12.9698808451,77.6412837580,"Continental, Asian, Italian, North Indian",4.5,Excellent,3301
+18578798,TBC Sky Lounge,"Astra Hotel, 2795, 27th Main, Sector 1, HSR, Bangalore",HSR,12.9228727861,77.6515448838,"Continental, Asian, Italian, North Indian",4.7,Excellent,8451
+18801352,Punjab Grill,"Ground Floor, Forum Shantiniketan, Whitefield Main Road, Hoodi, Whitefield, Bangalore",Whitefield,12.9893534000,77.7283305000,North Indian,4.8,Excellent,869
+18853706,Brahma Brews,"24th Main, 7th Phase, Opposite Brigade Palm Springs, JP Nagar, Bangalore",JP Nagar,12.8933610000,77.5863890000,"Continental, South Indian, Finger Food, Pizza, Seafood",4.4,Very Good,858
+18254597,Brew and Barbeque - A Microbrewery Pub,"36/4, Fourth Floor, Soul Space Arena, Outer Ring Road, Doddanekkundi Village, Marathahalli, Bangalore","Soul Space Arena Mall, Marathahalli",12.9801658606,77.6933712512,"Continental, North Indian, BBQ, Steak",4.8,Excellent,7024
+18353127,Delhi Highway,"951, 12th Main Road, HAL 2nd Stage, Indiranagar, Bangalore",Indiranagar,12.9700644632,77.6394890249,"Modern Indian, North Indian, Mughlai",4.4,Very Good,3780
+18765119,ANTIGRAVITY,"35, 4th Floor, Kadubeesanahalli, Marathalli Outer Ring Road, Opposite Oracle JP Morgan, Marathahalli, Bangalore",Marathahalli,12.9412520000,77.6966690000,"Continental, North Indian, Chinese, BBQ",4.4,Very Good,1219
+52599,Empire Restaurant,"Next to BSNL, HAL 2nd Stage, 80 Feet Road, Indiranagar, Bangalore",Indiranagar,12.9698716969,77.6475158706,"North Indian, Mughlai, South Indian, Chinese",4.1,Very Good,8620
+18480016,Hammered,"3, 80 Feet Road, Opposite MK Tower, RMV 2nd Stage, New BEL Road, Bangalore",New BEL Road,13.0272538992,77.5772406533,"North Indian, Continental",4.6,Excellent,3366
+18767303,Imperio Restaurant,"429, 7th Main Road, HRBR Layout, 1st Block, Kalyan Nagar, Bangalore",Kalyan Nagar,13.0240984681,77.6430919021,"North Indian, Mughlai, Biryani, South Indian, Beverages",4.4,Very Good,1634
+18762571,AB's - Absolute Barbecues,"1st Floor, GRS Towers, Above Spencers Hyper Market, Sarjapur Main Road, Sarjapur Road, Bangalore",Sarjapur Road,12.9187173630,77.6699250564,"European, Mediterranean, North Indian, BBQ",4.8,Excellent,1571
+18843699,The Bier Library,"14, Patel Narayana Reddy Layout, 80 Feet Main Road, Koramangala 6th Block, Bangalore",Koramangala 6th Block,12.9390760000,77.6260650000,"Continental, North Indian, Pizza, BBQ",4.4,Very Good,914
+18422898,Hoot,"2034/69, Block 2, Kaikondrahalli, Varthur Hobli, Sarjapur Road, Bangalore",Sarjapur Road,12.9141108931,77.6784072071,"Continental, Italian, North Indian",4.1,Very Good,7799
+18313531,Biergarten,"2, Doddanekkundi, Whitefield Road, Mahadevpura, Whitefield, Bangalore",Whitefield,12.9824459531,77.7085327730,"Continental, European, BBQ, Chinese, Asian",4.6,Excellent,7531
+18701989,Chulha Chauki Da Dhaba,"Opposite EMC-2, 2nd Floor, Above Nexa Showroom, Outer Ring Road, Mahadevapura, Marathahalli, Bangalore",Marathahalli,12.9821060000,77.6926900000,North Indian,4.4,Very Good,848
+18866963,The Globe Grub,"C K Emerald, Opposite Yes Bank, BTM Layout, Near Shoppers Stop Bannerghata Main Road, BTM, Bangalore",BTM,12.9102298371,77.6003267616,"Continental, North Indian, Asian, Italian",4.8,Excellent,1024
+18772094,Bombay Adda,"6, Z1 Construction Building, 5th Floor, Next To Sapna Book House, 20th Main Road, Koramangala 7th Block, Bangalore",Koramangala 7th Block,12.9348037208,77.6134464517,Modern Indian,4.3,Very Good,3474
+18727906,XOOX Brewmill,"8, Koramanagala Industrial Layout, Near HDFC Bank, Koramangala 5th Block, Bangalore",Koramangala 5th Block,12.9355510000,77.6150600000,"Modern Indian, European, Asian",4.5,Excellent,1932
+18224672,Gilly's Restobar,"4th & 5th Floor, Sree Premprasad Complex, Opposite Ramaiah Hospital, New BEL Road, Bangalore",New BEL Road,13.0271686443,77.5716784224,"Continental, Finger Food, North Indian, Chinese",4.5,Excellent,3175
+50691,Meghana Foods,"124, Near Jyothi Nivas College, 1st Cross, KHB Colony, Koramangala 5th Block, Bangalore",Koramangala 5th Block,12.9344913298,77.6162040979,"Biryani, Andhra, North Indian, Seafood",4.3,Very Good,7461
+18537585,The Reservoire,"17th Main Road, JNC Road, Koramangala 5th Block, Bangalore",Koramangala 5th Block,12.9335142885,77.6222622022,"Continental, North Indian, Chinese, American",4.5,Excellent,2877
+54165,Deja Vu Buffet Bar,"5th Floor, Gopalan Innovation Mall, Bannerghatta Road, Bangalore","Gopalan Innovation Mall, Bannerghatta",12.9140958605,77.5996515155,"North Indian, Italian",4.4,Very Good,2856
+18903445,Hammered,"38, Sarjapur Main Road, Jakkasandra Extension, HSR, Bangalore",HSR,12.9238840000,77.6402840000,"North Indian, South Indian, Continental, Asian",4.2,Very Good,916
+18807850,Levitate Brewery and Kitchen,"57, 1st Main Rd, Sarakki Industrial Layout, 3rd Phase, JP Nagar, Bengalore",JP Nagar,12.9076820000,77.5993730000,"Finger Food, North Indian, Continental",4.6,Excellent,1010
+18790994,Imperio Restaurant,"3, A Square Plaza, Ground Floor, ITPL Main Road, Near Brookefield Mall, Brookefield, Bangalore",Brookefield,12.9623644776,77.7167939767,"North Indian, Arabian, Mughlai, Biryani, Seafood, Beverages",4.1,Very Good,1291
+58882,Byg Brewski Brewing Company,"Behind MK Retail, Sarjapur Road, Bangalore",Sarjapur Road,12.9129344258,77.6829059422,"Continental, North Indian, Italian, South Indian, Finger Food, Pizza",4.9,Excellent,18149
+18628654,eat.fit,"96, 29th Main, 23rd Cross, 2nd Stage, BTM, Bangalore",BTM,12.9053709157,77.6113959029,"Healthy Food, North Indian, Biryani, Continental, Desserts",4.5,Excellent,1299
+18605417,Brooks and Bonds Brewery,"4, 100 Feet Road, Koramangala 5th Block, Bangalore",Koramangala 5th Block,12.9342338357,77.6234309748,"Continental, Mediterranean, North Indian, Chinese, Finger Food",4.3,Very Good,4621
+60673,SodaBottleOpenerWala,"25/4, Opposite Harley Davidson Showroom, Lavelle Road, Bangalore",Lavelle Road,12.9706574636,77.5976344943,"Parsi, North Indian",4.4,Very Good,3978
+18642512,Stories,"77, West of Chord Road, Beside To Mahalakshmi Layout Metro Station, Rajajinagar, Bangalore",Rajajinagar,13.0085637533,77.5487867743,"Continental, North Indian, Chinese",4.6,Excellent,2971
+53784,Mainland China,"28/2, 1st Floor, Siddapura, Whitefield Main Road, Whitefield, Bangalore",Whitefield,12.9557882459,77.7251581103,Chinese,4.7,Excellent,1816
+18608512,Al Daaz,"64 & 65, 27th Main Road, Sector 1, HSR, Bangalore",HSR,12.9207741689,77.6514744759,"North Indian, Continental, BBQ",4.2,Very Good,854
+58049,Shanmukha,"1313, Near Bangalore Central Mall, 25th Main, 9th Block, Jayanagar, Bangalore",Jayanagar,12.9178170558,77.5926556438,"Biryani, Andhra, North Indian, Chinese",4.3,Very Good,2169
+18577681,eat.fit,"32/2G, NCPR Industrial Layout, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Whitefield, Bangalore",Whitefield,12.9829310000,77.7097910000,"Healthy Food, North Indian, Biryani, Continental, Desserts",4.4,Very Good,1118
+51040,Truffles,"28, 4th 'B' Cross, Koramangala 5th Block, Bangalore",Koramangala 5th Block,12.9334267140,77.6143838838,"Cafe, American, Burger, Steak",4.7,Excellent,15261
+18585733,Vapour Brewpub and Diner,"7th Floor, Bren Mercury, Kaikondrahalli Junction, Sarjapur Road, Bangalore",Sarjapur Road,12.9141791934,77.6776290312,"North Indian, Continental, Italian",4.4,Very Good,3257
+18385443,Koramangala Social,"118, Koramangala Industrial Area, Koramangala 7th Block, Bangalore",Koramangala 7th Block,12.9354405920,77.6142839715,"American, North Indian, Chinese, Asian, Biryani, Beverages",4.6,Excellent,5018
+18629607,Sarjapur Social,"22, 57/58/1/2, Saket Callipolis, Doddakannhalli, Ambalipura, Sarjapur Road, Bangalore",Sarjapur Road,12.9100082660,77.6857028157,"American, North Indian, Chinese, European, Asian, South Indian, Fast Food, Biryani",4.5,Excellent,1616
+52015,Shanmukha,"93/7, C Narayana Reddy Plaza, Marathahalli , Outer Ring Road",Marathahalli,12.9555402493,77.7004700527,"Biryani, Andhra, North Indian, Chinese",3.9,Good,2086
+18684431,BTDT? Been There Done That,"776, 3rd Floor, 100 Feet Road, Indiranagar, Bangalore",Indiranagar,12.9688418650,77.6412254199,"European, Continental, Asian, Finger Food",4.3,Very Good,1202
+18579174,Empire Restaurant,"148/1, Bilekhahalli Village, Near IIM Bangalore, Arekere Gate, Bannerghatta Road, Bangalore",Bannerghatta Road,12.8913495161,77.5985363871,"North Indian, Mughlai, South Indian, Chinese",4.2,Very Good,3413
+18996772,The Hobbit Cafe,"12, 1st Main Road, Industrial Layout, Koramangala 5th Block, Bangalore",Koramangala 5th Block,12.9351240000,77.6152590000,"Continental, Burger, Pizza, Asian",4.5,Excellent,261
+53124,Rajdhani Thali Restaurant,"1st Floor, Salarpuria Landmark, HAL 2nd Stage, 100 Feet Road, Indiranagar, Bangalore",Indiranagar,12.9638857395,77.6417283341,"North Indian, Street Food, Desserts",4.2,Very Good,1190
+58725,Imperio Restaurant,"101/9, Apple City, Near HP Petrol Bunk, Hoskote Main Road, Seegehalli, Whitefield, Bangalore",Whitefield,13.0086507000,77.7586771000,"North Indian, Arabian, Mughlai, Biryani, Seafood, Beverages",4.4,Very Good,2472
+18359919,Onesta,"Site 15, 15th Cross, 100 Feet Road, 4th Phase, JP Nagar, Bangalore",JP Nagar,12.9059967506,77.5969196856,"Pizza, Italian, Fast Food, Beverages, Desserts",4.3,Very Good,4700
+18353121,Flechazo,"9/1, 1st Floor, Above Surya Nissan, VRR Orchid, Doddanakkundi, Marathahalli, Bangalore",Marathahalli,12.9744431580,77.6973469555,"Asian, Mediterranean, North Indian, Desserts",4.5,Excellent,7683
+56573,Biryani Pot,"18, 4th Main, 14th Cross,  4th Link Road, Maruthi Nagar, Madiwala, BTM, Bangalore",BTM,12.9219087707,77.6166335866,Biryani,3.9,Good,1152
+18503723,Onesta,"2318, 27th Main Road, 1st Sector, HSR, Bangalore",HSR,12.9122092616,77.6518164575,"Pizza, Italian, Fast Food, Beverages, Desserts",4.3,Very Good,3996
+50474,Empire Restaurant,"103, Industrial Area, 5th Block, Near Jyothi Nivas College",Koramangala 5th Block,12.9348821453,77.6159456000,"North Indian, Mughlai, South Indian, Chinese",4.1,Very Good,7157
+50066,Barbeque Nation,"4005, HAL 2nd Stage, 100 Feet Road, Indiranagar, Bangalore",Indiranagar,12.9625771804,77.6415392384,"North Indian, European, Mediterranean, BBQ, Kebab",4.7,Excellent,7664
+18734311,HQ,"75, Inorbit Mall, EPIP Area, Road 7, Whitefield, Bengaluru",Whitefield,12.9798646347,77.7278627828,"North Indian, Italian, Finger Food, Continental",4.3,Very Good,1001
+18657127,eat.fit,"1/8, 1st Stage, 1st Cross, KK Computers Building, Shri Krishna Temple Road, Indiranagar, Bangalore",Indiranagar,12.9790475328,77.6415573433,"Healthy Food, North Indian, Biryani, Continental, Desserts",4.5,Excellent,944
+18593506,eat.fit,"39/12, 5th Main Road, Iblur Village, Outer Ring Road, Bellandur, Bangalore",Bellandur,12.9214414670,77.6636993140,"Healthy Food, North Indian, Biryani, Continental, Desserts",4.4,Very Good,709
+18339863,The Boozy Griffin,"20/7, 4th & 5th Floor, Swamy Legato, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bangalore",Marathahalli,12.9394372569,77.6949913055,"European, Continental",4.8,Excellent,5248
+59713,Al Amanah Cafe,"20, 5th Avenue, 5th Main Road, Kammanahalli, Bangalore",Kammanahalli,13.0155462635,77.6394397393,"Middle Eastern, Fast Food, Rolls",4.4,Very Good,1725
+18605025,Wall Street 657,"657, Above KTM Bike Show Room, 100 Feet Road, Indiranagar, Bangalore",Indiranagar,12.9769670312,77.6408311352,"Finger Food, Continental",4.2,Very Good,2042
+18379660,Cafe Azzure,"52, Brigade Road, Haridevpur, Shanthala Nagar, MG Road, Bangalore",MG Road,12.9749590430,77.6076025888,"Cafe, Continental, Italian, Burger",4.3,Very Good,2948
+58268,The Fatty Bao - Asian Gastro Bar,"610, 3rd Floor, 12th Main, Off 80 Feet Road, Indiranagar, Bangalore",Indiranagar,12.9703369495,77.6452725381,"Japanese, Sushi, Asian",4.6,Excellent,3972
+51705,Toit,"298, Namma Metro Pillar 62, 100 Feet Road, Indiranagar, Bangalore",Indiranagar,12.9788880980,77.6409219950,"Italian, American",4.7,Excellent,15484
+18526279,The Globe Grub,"2nd Floor, Soul Space Paradigm, Above Bata Showroom, Outer Ring Road, Marathahalli, Bangalore",Marathahalli,12.9512213434,77.6993042976,"Continental, North Indian, Asian, Italian",4.9,Excellent,4793
+18612909,Dhaba Estd 1986 Delhi,"1st Floor, NTR Royal Plaza, Outer Ring Road, Marathahalli, Bangalore",Marathahalli,12.9495931572,77.6990675926,North Indian,4.3,Very Good,1534
+18535583,Grill Biryanis,"9, Jalahalli Cross Circle, Jalahalli, Bangalore",Jalahalli,13.0400610000,77.5189200000,"Biryani, North Indian",4.1,Very Good,1489
+18782265,The Bangalore Cafe,"4, KH Road, Double Road, Shanti Nagar, Bangalore",Shanti Nagar,12.9616848731,77.5945103914,"Modern Indian, North Indian, Pizza, Continental, Beverages",4.4,Very Good,725
+18275048,Tipsy Bull - The Bar Exchange,"2008, 2nd Floor, 100 Feet Road, Indiranagar, Bangalore",Indiranagar,12.9647796725,77.6417816430,"Chinese, Continental, North Indian, Mexican",4.6,Excellent,3427
+61381,Kota Kachori,"635, 100 Feet Road, Koramangala 6th Block, Bangalore",Koramangala 6th Block,12.9361486969,77.6254094392,"Street Food, Desserts, North Indian, Mithai, Rajasthani",4.3,Very Good,3828
+18880430,Vanilla Sky,"253, 2nd Floor, 5th Main, 17th Cross, Sector 6, HSR, Bangalore",HSR,12.9125370000,77.6333010000,"Chinese, Continental, North Indian, Finger Food",4.5,Excellent,1281
+18308756,Hammered,"18, Ali Askar Road, Cunningham Road, Bangalore",Cunningham Road,12.9864513377,77.5949016586,"North Indian, Continental",4.6,Excellent,5292
+18512886,Stories,"15, 24th Main Road, 1st Phase, JP Nagar, Bangalore",JP Nagar,12.9135782155,77.5856292620,"American, Chinese, Continental, North Indian",4.4,Very Good,2764
+18608773,Empire Restaurant,"77, Ground Floor, Bellandur Outer Ring Road, Bellandur, Bangalore",Bellandur,12.9249423022,77.6744851470,"North Indian, Mughlai, South Indian, Chinese",3.6,Good,2330
+18777147,Jetlag,"3, Industrial Suburb, Opposite To Sheraton Hotel, Near Orion Mall, Rajajinagar, Bangalore",Rajajinagar,13.0123096699,77.5544086844,"Finger Food, Continental, North Indian, Italian, Japanese",4.3,Very Good,1522
+18492910,Red Rhino,"4th Floor, Uptown Square, Seegehalli, Near Alliance 10 Downing Villas, Hoskote Road, Whitefield, Bangalore",Whitefield,13.0247030988,77.7614996955,"Continental, Mediterranean, South Indian, North Indian, Asian",4.5,Excellent,2147
